@@ -32,8 +32,8 @@ This project is a React.js application that implements an infinite scroll featur
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/lutfiangga/crud-image-express-react.git
-cd crud-image-express-react
+git clone https://github.com/lutfiangga/infinite-scroll.git
+cd infinite-scroll
 ```
 
 ### 2. Backend Setup
